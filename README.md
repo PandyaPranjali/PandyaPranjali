@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PandyaPranjali
+- 👀 I’m interested in Machine learning , Airtificial Inteligence, Data Science
